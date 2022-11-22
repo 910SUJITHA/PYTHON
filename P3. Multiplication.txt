@@ -1,0 +1,13 @@
+//3. To print multiplication of two numbers.
+
+a=int(input())
+b=int(input())
+c=a*b
+print(c)
+
+Input:
+12
+21
+
+Output:
+252
