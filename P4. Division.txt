@@ -1,0 +1,13 @@
+// To print division of two numbers.
+
+a=int(input())
+b=int(input())
+c=a/b
+print(c)
+
+Input:
+50
+5
+
+Output:
+10.0
